@@ -1,30 +1,47 @@
-# Merhaba, ben Özgür 👋
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8993FB,100:1BE7BE&height=200&section=header&text=Hi%20There,%20I%27m%20Ozgur&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=20)
 
-### Yazılım Geliştirici
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+software;Always+learning+something+new;Turning+ideas+into+code)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KULLANICI_ADIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADRESIN)
-
----
-
-## 🧑‍💻 Hakkımda
-
-- 🔭 Şu anda **proje adı** üzerinde çalışıyorum
-- 🌱 Şu anda **öğrendiğim teknoloji** üzerine kendimi geliştiriyorum
-- 💬 Bana şu konularda soru sorabilirsiniz: **JavaScript, Python, ...**
-- ⚡ İlgi alanlarım: web geliştirme, açık kaynak, otomasyon
-
-## 🛠️ Teknolojiler
-
-![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,docker)
-
-## 📊 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozenozgur&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozenozgur&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ozenozgur&theme=tokyonight&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-%C3%B6zen-19012b339/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozgurozen2001@gmail.com) [![Profile Views](https://komarev.com/ghpvc/?username=ozenozgur&color=blueviolet&style=for-the-badge)](https://github.com/ozenozgur)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ozenozgur&color=blueviolet&style=flat)
+## About Me
+
+- 🔭 I'm currently focused on building full-stack web applications
+- 🌱 I'm continuously learning new tools and best practices in modern web development
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js and Python**
+- ⚡ Fun fact: I enjoy turning ideas into working software
+- 📩 Reach me at **ozgurozen2001@gmail.com**
+
+## Tech Stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,html,css)
+
+**Frameworks & Libraries**
+
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind)
+
+**Tools & Platforms**
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman)
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozenozgur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozenozgur&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozenozgur&layout=compact&theme=tokyonight&hide_border=true)
+
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ozenozgur&theme=tokyonight&no-frame=true&row=1&column=6)
+
+## Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozenozgur&theme=tokyo-night&hide_border=true)
+
+---
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8993FB,100:1BE7BE&height=100&section=footer)
