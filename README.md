@@ -30,17 +30,7 @@
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozenozgur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozenozgur&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozenozgur&layout=compact&theme=tokyonight&hide_border=true)
-
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ozenozgur&theme=tokyonight&no-frame=true&row=1&column=6)
-
-## Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozenozgur&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozenozgur&theme=tokyonight&hide_border=true)
 
 ---
 
